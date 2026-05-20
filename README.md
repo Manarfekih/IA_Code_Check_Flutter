@@ -268,24 +268,3 @@ dependencies:
   uuid: ^4.3.3
 
 ```
-
----
-
-## 🧪 Example Detection Flow
-
-1. User pastes a snippet of code into the text input area.
-2. The application passes the prompt to both Gemini and Groq concurrently.
-3. Each individual API returns its respective probability score and markdown text response.
-4. Raw data payloads are parsed into structured models.
-5. The system calculates an ensemble agreement score.
-6. The UI renders the analytical output:
-* **Final Verdict** (Human vs. AI)
-* **Confidence Status** (High / Medium / Low)
-* **Interactive Gauge Charts**
-* **Individual Model Explanations**
-
-
-7. The complete report is automatically indexed into the local Hive cache.
-
----
-
