@@ -25,6 +25,14 @@ The application combines the outputs of Google Gemini and Groq-powered models to
 | 🔄 **Smart Fallback Logic** | If one AI model fails, the other still provides analysis. |
 
 ---
+## 🎥 Project Demo
+
+Watch the demonstration of **IA_Code_Check_Flutter**:
+
+[![IA_Code_Check_Flutter — Demo](https://img.youtube.com/vi/XU6jbRMFSR8/maxresdefault.jpg)](https://youtube.com/shorts/XU6jbRMFSR8?feature=share)
+
+**▶️ [Watch the full demo](https://youtube.com/shorts/XU6jbRMFSR8?feature=share)**
+---
 
 ## 📸 Application Overview
 
